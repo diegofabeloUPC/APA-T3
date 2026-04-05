@@ -96,7 +96,7 @@ Inserte a continuación una captura de pantalla que muestre el resultado de ejec
 fichero `algebra/vectores.py` con la opción *verbosa*, de manera que se muestre el
 resultado de la ejecución de los tests unitarios.
 
-![alt text](Screenshot%2026-04-05%at%20.56.07.png)
+![alt text](testunitarios.png)
 
 #### Código desarrollado
 
